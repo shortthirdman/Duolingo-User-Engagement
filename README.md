@@ -29,3 +29,10 @@ Duolingo user engagement forecasting using `Markov Chain` model for DAU, WAU, an
 	```shell
 	jupyter notebook
 	```
+
+
+## References
+
+- [Modeling DAU with Markov Chain - How to predict DAU using Duolingo's growth model and control the prediction](https://towardsdatascience.com/modeling-dau-with-markov-chain-640ea4fddeb4)
+
+- [Markov Chains: A Comprehensive Guide to Stochastic Processes and the Chapman-Kolmogorov Equation](https://medium.com/data-and-beyond/markov-chains-a-comprehensive-guide-to-stochastic-processes-and-the-chapman-kolmogorov-equation-8aa04d1e0349)
